@@ -35,8 +35,8 @@ input[type=text] {
 img.profile-pic {
     margin-right: 20px;
     float: left;
-    height: 300px;
-    width: 200px
+    height: auto;
+    width: 25%;
 }
 
 .navigation {
@@ -79,10 +79,10 @@ h1 {
 div.label-hang {
     position: absolute;
     top: 415px;
-    left: 225px;
+    left: 265px;
     width: 219px;
-    height: 15px;
-    padding: 20px;
+    height: 40px;
+    padding: 7px;
     font-size: 20px;
     text-align: center;
     color: white;
@@ -94,8 +94,8 @@ div.label-rp {
     top: 415px;
     right: 542px;
     width: 219px;
-    height: 15px;
-    padding: 20px;
+    height: 40px;
+    padding: 7px;
     font-size: 20px;
     text-align: center;
     color: white;
@@ -105,10 +105,10 @@ div.label-rp {
 div.label-trivia {
     position: absolute;
     top: 675px;
-    left: 225px;
+    left: 265px;
     width: 219px;
-    height: 15px;
-    padding: 20px;
+    height: 40px;
+    padding: 7px;
     font-size: 20px;
     text-align: center;
     color: white;
@@ -120,8 +120,8 @@ div.label-rutgers {
     top: 675px;
     right: 542px;
     width: 219px;
-    height: 15px;
-    padding: 20px;
+    height: 40px;
+    padding: 7px;
     font-size: 20px;
     text-align: center;
     color: white;
@@ -131,10 +131,10 @@ div.label-rutgers {
 div.label-rock {
     position: absolute;
     top: 933px;
-    left: 225px;
+    left: 265px;
     width: 220px;
-    height: 15px;
-    padding: 20px;
+    height: 40px;
+    padding: 7px;
     font-size: 20px;
     text-align: center;
     color: white;
@@ -143,23 +143,33 @@ div.label-rock {
 
 img.hangman {
     margin: 30px;
+    width: 30%;
+    height: auto;
     position: relative;
 }
 
 img.rp-game {
     margin: 30px;
+    width: 30%;
+    height: auto;
 }
 
 img.trivia {
     margin: 30px;
+    width: 30%;
+    height: auto;
 }
 
 img.rutgers-info {
     margin: 30px;
+    width: 30%;
+    height: auto;
 }
 
 img.rock-p-s {
     margin: 30px;
+    width: 30%;
+    height: auto;
 }
 
 .footer {
