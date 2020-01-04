@@ -92,7 +92,7 @@ div.label-hang {
 div.label-rp {
     position: absolute;
     top: 415px;
-    right: 542px;
+    right: 520px;
     width: 219px;
     height: 40px;
     padding: 7px;
@@ -104,7 +104,7 @@ div.label-rp {
 
 div.label-trivia {
     position: absolute;
-    top: 675px;
+    top: 690px;
     left: 265px;
     width: 219px;
     height: 40px;
@@ -117,8 +117,8 @@ div.label-trivia {
 
 div.label-rutgers {
     position: absolute;
-    top: 675px;
-    right: 542px;
+    top: 690px;
+    right: 520px;
     width: 219px;
     height: 40px;
     padding: 7px;
@@ -130,7 +130,7 @@ div.label-rutgers {
 
 div.label-rock {
     position: absolute;
-    top: 933px;
+    top: 950px;
     left: 265px;
     width: 220px;
     height: 40px;
