@@ -1,8 +1,12 @@
 body {
-    background-image: url("/assets/images/just-waves.png");
+    background-image: url("../images/just-waves.png");
     background-color: rgba(95, 86, 86, 0.034);
     display: flex;
     flex-direction: column;
+}
+
+#form-submit {
+    width: 15%;
 }
 
 .header {
@@ -26,6 +30,7 @@ input[type=text] {
     padding: 12px 20px;
     margin: 8px 0;
     box-sizing: border-box;
+
 }
 
 .form-message {
