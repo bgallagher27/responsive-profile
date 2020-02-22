@@ -81,100 +81,10 @@ h1 {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
 }
 
-div.label-hang {
-    position: absolute;
-    top: 415px;
-    left: 265px;
-    width: 219px;
-    height: 40px;
-    padding: 7px;
-    font-size: 20px;
-    text-align: center;
-    color: white;
-    background-color: #4aaaa5;
-}
-
-div.label-rp {
-    position: absolute;
-    top: 415px;
-    right: 520px;
-    width: 219px;
-    height: 40px;
-    padding: 7px;
-    font-size: 20px;
-    text-align: center;
-    color: white;
-    background-color: #4aaaa5;
-}
-
-div.label-trivia {
-    position: absolute;
-    top: 690px;
-    left: 265px;
-    width: 219px;
-    height: 40px;
-    padding: 7px;
-    font-size: 20px;
-    text-align: center;
-    color: white;
-    background-color: #4aaaa5;
-}
-
-div.label-rutgers {
-    position: absolute;
-    top: 690px;
-    right: 520px;
-    width: 219px;
-    height: 40px;
-    padding: 7px;
-    font-size: 20px;
-    text-align: center;
-    color: white;
-    background-color: #4aaaa5;
-}
-
-div.label-rock {
-    position: absolute;
-    top: 950px;
-    left: 265px;
-    width: 220px;
-    height: 40px;
-    padding: 7px;
-    font-size: 20px;
-    text-align: center;
-    color: white;
-    background-color: #4aaaa5;
-}
-
-img.hangman {
-    margin: 30px;
-    width: 30%;
-    height: auto;
-    position: relative;
-}
-
-img.rp-game {
-    margin: 30px;
-    width: 30%;
-    height: auto;
-}
-
-img.trivia {
-    margin: 30px;
-    width: 30%;
-    height: auto;
-}
-
-img.rutgers-info {
-    margin: 30px;
-    width: 30%;
-    height: auto;
-}
-
-img.rock-p-s {
-    margin: 30px;
-    width: 30%;
-    height: auto;
+.card {
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .footer {
