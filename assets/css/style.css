@@ -9,6 +9,12 @@ body {
     width: 15%;
 }
 
+#BG-contact {
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
 .header {
     background-color: #ffffff;
     border-bottom: 2px solid #cccccc;
