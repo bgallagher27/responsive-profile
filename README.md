@@ -5,7 +5,7 @@ This profile gives the reader some background information on who I am and where 
 Visit this link to try it out - [https://bgallagher27.github.io/responsive-profile/](https://bgallagher27.github.io/responsive-profile/)
 
 ## User Story
-* AS AN aspiring softwafre developer
+* AS AN aspiring software developer
 * I WANT to show colleagues and potential employers a sample of my finest work to showcase my skills and understanding in software devlopment
 * SO THAT I can pursue and develop a career in software development
 
